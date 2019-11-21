@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "mailslurp-swagger-sdk-ts@6.1.0",
+      "/home/vla8islav/repos/SravniClient"
+    ]
+  ],
+  "_development": true,
+  "_from": "mailslurp-swagger-sdk-ts@6.1.0",
+  "_id": "mailslurp-swagger-sdk-ts@6.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-sWoOlWcwwg2gUa/z7RMY7uAN6x/1Jgc1y9+kWNuBw9nXNE/4LDA17F647oWm20fv2lPqOo4GZaf4XrjZjuOayw==",
+  "_location": "/mailslurp-swagger-sdk-ts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "mailslurp-swagger-sdk-ts@6.1.0",
+    "name": "mailslurp-swagger-sdk-ts",
+    "escapedName": "mailslurp-swagger-sdk-ts",
+    "rawSpec": "6.1.0",
+    "saveSpec": null,
+    "fetchSpec": "6.1.0"
+  },
+  "_requiredBy": [
+    "/mailslurp-client"
+  ],
+  "_resolved": "https://registry.sravni-team.ru/repository/npm-group/mailslurp-swagger-sdk-ts/-/mailslurp-swagger-sdk-ts-6.1.0.tgz",
+  "_spec": "6.1.0",
+  "_where": "/home/vla8islav/repos/SravniClient",
+  "author": {
+    "name": "OpenAPI-Generator Contributors"
+  },
+  "dependencies": {
+    "portable-fetch": "^3.0.0"
+  },
+  "description": "OpenAPI client for mailslurp-swagger-sdk-ts",
+  "devDependencies": {
+    "@types/node": "^8.0.9",
+    "typescript": "^2.4"
+  },
+  "keywords": [
+    "fetch",
+    "typescript",
+    "openapi-client",
+    "openapi-generator",
+    "mailslurp-swagger-sdk-ts"
+  ],
+  "license": "Unlicense",
+  "main": "./dist/index.js",
+  "name": "mailslurp-swagger-sdk-ts",
+  "scripts": {
+    "build": "tsc --outDir dist/",
+    "prepublishOnly": "npm run build"
+  },
+  "typings": "./dist/index.d.ts",
+  "version": "6.1.0"
+}
