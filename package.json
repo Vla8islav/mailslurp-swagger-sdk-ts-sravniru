@@ -1,13 +1,13 @@
 {
   "_args": [
     [
-      "mailslurp-swagger-sdk-ts-sravniru@6.2.0",
+      "mailslurp-swagger-sdk-ts-sravniru@6.3.0",
       "/home/vla8islav/repos/SravniClient"
     ]
   ],
   "_development": true,
-  "_from": "mailslurp-swagger-sdk-ts-sravniru@6.2.0",
-  "_id": "mailslurp-swagger-sdk-ts-sravniru@6.2.0",
+  "_from": "mailslurp-swagger-sdk-ts-sravniru@6.3.0",
+  "_id": "mailslurp-swagger-sdk-ts-sravniru@6.3.0",
   "_inBundle": false,
   "_integrity": "sha512-sWoOlWcwwg2gUa/z7RMY7uAN6x/1Jgc1y9+kWNuBw9nXNE/4LDA17F647oWm20fv2lPqOo4GZaf4XrjZjuOayw==",
   "_location": "/mailslurp-swagger-sdk-ts-sravniru",
@@ -15,18 +15,18 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "mailslurp-swagger-sdk-ts-sravniru@6.2.0",
+    "raw": "mailslurp-swagger-sdk-ts-sravniru@6.3.0",
     "name": "mailslurp-swagger-sdk-ts-sravniru",
     "escapedName": "mailslurp-swagger-sdk-ts-sravniru",
-    "rawSpec": "6.2.0",
+    "rawSpec": "6.3.0",
     "saveSpec": null,
-    "fetchSpec": "6.2.0"
+    "fetchSpec": "6.3.0"
   },
   "_requiredBy": [
     "/mailslurp-client"
   ],
-  "_resolved": "https://registry.sravni-team.ru/repository/npm-group/mailslurp-swagger-sdk-ts-sravniru/-/mailslurp-swagger-sdk-ts-sravniru-6.2.0.tgz",
-  "_spec": "6.2.0",
+  "_resolved": "https://registry.sravni-team.ru/repository/npm-group/mailslurp-swagger-sdk-ts-sravniru/-/mailslurp-swagger-sdk-ts-sravniru-6.3.0.tgz",
+  "_spec": "6.3.0",
   "_where": "/home/vla8islav/repos/SravniClient",
   "author": {
     "name": "OpenAPI-Generator Contributors"
@@ -54,7 +54,7 @@
     "prepublishOnly": "npm run build"
   },
   "typings": "./dist/index.d.ts",
-  "version": "6.2.0",
+  "version": "6.3.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mlaanderson/database-js.git"
